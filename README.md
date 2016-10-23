@@ -1,7 +1,7 @@
-# Joker Lorem Movies
+# Resource of loaders with SVG
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/resource-solutions/resource-svg-loading.svg?style=flat-square)](https://github.com/resource-solutions/resource-svg-loading/issues)
+[![issues](https://img.shields.io/github/issues/resource-solutions/resource-svg-loaders.svg?style=flat-square)](https://github.com/resource-solutions/resource-svg-loaders/issues)
 
 ## Contributing
 
@@ -13,7 +13,7 @@
 
 ## Log
 
-Check [Releases](https://github.com/resource-solutions/resource-svg-loading/releases) for detailed changelog.
+Check [Releases](https://github.com/resource-solutions/resource-svg-loaders/releases) for detailed changelog.
 
 ## License
 
